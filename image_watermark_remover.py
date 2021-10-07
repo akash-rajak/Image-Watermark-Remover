@@ -8,7 +8,7 @@ import tkinter as tk
 import tkinter.messagebox as mbox
 from tkinter import ttk
 from tkinter import filedialog
-from PIL import ImageTk, Image
+from pil import ImageTk, Image
 import cv2
 
 
