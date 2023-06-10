@@ -5,9 +5,39 @@
 - User can also save that snipped image any where on local system by using save command.
 - For implementing this used OpenCv library.
 
+<p align = "center">
+	<img src = "https://img.shields.io/github/stars/akash-rajak/Image-Watermark-Remover?style=social", alt = "GitHub Repo stars">
+	<img src = "https://img.shields.io/github/forks/akash-rajak/Image-Watermark-Remover?style=social", alt = "GitHub Repo forks">
+	<img src = "https://img.shields.io/github/watchers/akash-rajak/Image-Watermark-Remover?style=social", alt = "GitHub Repo watchers">
+	<img src = "https://img.shields.io/github/contributors/akash-rajak/Image-Watermark-Remover?style=social", alt = "GitHub contributors">
+</p>
+<p align = "center">
+	<img src = "https://img.shields.io/github/languages/count/akash-rajak/Image-Watermark-Remover?style=social", alt = "GitHub language count">
+	<img src = "https://img.shields.io/github/languages/top/akash-rajak/Image-Watermark-Remover?style=social", alt = "GitHub top language">
+	<img src = "https://img.shields.io/github/directory-file-count/akash-rajak/Image-Watermark-Remover?style=social", alt = "GitHub repo file count">
+	<img src = "https://img.shields.io/github/repo-size/akash-rajak/Image-Watermark-Remover?style=social", alt = "GitHub repo size">
+</p>
+<p align = "center">
+	<img src = "https://img.shields.io/github/issues/akash-rajak/Image-Watermark-Remover", alt = "GitHub issues">
+	<img src = "https://img.shields.io/github/issues-closed/akash-rajak/Image-Watermark-Remover", alt = "GitHub closed issues">
+	<img src = "https://img.shields.io/github/issues-pr/akash-rajak/Image-Watermark-Remover", alt = "GitHub pull requests">
+	<img src = "https://img.shields.io/github/issues-pr-closed/akash-rajak/Image-Watermark-Remover", alt = "GitHub closed pull requests">
+</p>
+<p align = "center">
+	<img src = "https://img.shields.io/github/commit-activity/t/akash-rajak/Image-Watermark-Remover", alt = "GitHub commit activity">
+	<img src = "https://img.shields.io/github/commit-activity/y/akash-rajak/Image-Watermark-Remover", alt = "GitHub commit activity/year">
+	<img src = "https://img.shields.io/github/commit-activity/m/akash-rajak/Image-Watermark-Remover", alt = "GitHub commit activity/month">
+	<img src = "https://img.shields.io/github/commit-activity/w/akash-rajak/Image-Watermark-Remover", alt = "GitHub commit activity/week">
+	<img src = "https://img.shields.io/github/last-commit/akash-rajak/Image-Watermark-Remover", alt = "GitHub last commit">
+	<img src = "https://img.shields.io/github/discussions/akash-rajak/Image-Watermark-Remover", alt = "GitHub Discussions">
+</p>
+<p align = "center">
+	<img src = "https://img.shields.io/github/license/akash-rajak/Image-Watermark-Remover", alt = "Github">
+</p>
+
 ****
 
-### REQUIREMENTS :
+### 📌REQUIREMENTS :
 - python 3
 - cv2 module
 - tkinter module
@@ -17,7 +47,7 @@
 
 ****
 
-### HOW TO Use it :
+### 📌HOW TO Use it :
 - User just need to download the file, and run the image_watermark_remover.py, on local system.
 - After running a GUI window appears, where user can start the application of removing watermark by clicking on the START button.
 - After that a new GUI window will open, in which user will have buttons like SELECT and EXIT.
@@ -25,17 +55,17 @@
 - After that user will be able to see both the image with watermark and image without watermark as an output.
 - User can also save that image without watermark any where on local system by using save command.
 
-### Purpose :
+### 📌Purpose :
 - This scripts helps user to easily remove the water mark present in the image.
 
-### Compilation Steps :
+### 📌Compilation Steps :
 - Install tkinter, PIL, cv2
 - After that download the code file, and run image_watermark_remover.py on local system.
 - Then the script will start running and user can explore it by selecting any image with watermark in it and removing it.
 
 ****
 
-### SCREENSHOTS :
+### 📌SCREENSHOTS :
 
 <p align="center">
   <img width = 1000 src="Images/1.jpg" /><br>
@@ -48,5 +78,12 @@
 
 ****
 
-### Name : 
-- Akash Ramanand Rajak
+### 🌟Stargazers Over Time:
+[![Stargazers over time](https://starchart.cc/akash-rajak/Image-Watermark-Remover.svg)](https://starchart.cc/akash-rajak/Image-Watermark-Remover)
+
+****
+
+### 📌Contributors:
+<a href="https://github.com/akash-rajak/Image-Watermark-Remover/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=akash-rajak/Image-Watermark-Remover" />
+</a>
