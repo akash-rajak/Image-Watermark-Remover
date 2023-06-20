@@ -79,7 +79,13 @@
 ****
 
 ### 🌟Stargazers Over Time:
+[![Stargazers repo roster for @akash-rajak/Image-Watermark-Remover](https://reporoster.com/stars/akash-rajak/Image-Watermark-Remover)](https://github.com/akash-rajak/Image-Watermark-Remover/stargazers)
 [![Stargazers over time](https://starchart.cc/akash-rajak/Image-Watermark-Remover.svg)](https://starchart.cc/akash-rajak/Image-Watermark-Remover)
+
+****
+
+### 🌟Forkers Over Time:
+[![Forkers repo roster for @akash-rajak/Image-Watermark-Remover](https://reporoster.com/forks/akash-rajak/Image-Watermark-Remover)](https://github.com/akash-rajak/Image-Watermark-Remover/network/members)
 
 ****
 
